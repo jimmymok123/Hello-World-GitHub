@@ -1,4 +1,4 @@
-name: Greeting from Mok
+name: Greeting from jimmymok
 on: push
 jobs:
   my-job:
